@@ -4,3 +4,4 @@ imageoffset.su filter=lfs diff=lfs merge=lfs -text
 mar.vel filter=lfs diff=lfs merge=lfs -text
 marnew.su filter=lfs diff=lfs merge=lfs -text
 mutemigd_10000_offbin_25f.su filter=lfs diff=lfs merge=lfs -text
+read.txt filter=lfs diff=lfs merge=lfs -text
